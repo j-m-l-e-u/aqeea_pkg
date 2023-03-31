@@ -1,0 +1,29 @@
+[project]
+name = "aqeea"
+version = "0.1-b"
+authors = [
+  { name="Jean-Marie Lepioufle", email="jm@jeanmarie.eu" },
+]
+description = "Access to air quality data from the European Environment Agency."
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text='MIT + Copyright Jean-Marie Lepioufle'}
+classifiers = [
+    "Programming Language :: Python :: 3"
+]
+dependencies = [
+  "requests==2.28.2",
+  "pandas~=1.5.3",
+  "polars~=0.16.9"
+]
+
+[project.optional-dependencies]
+example = [
+  "ipython",
+  "jupyter",
+  "os",
+  "osmnx"
+ ]
+
+[project.urls]
+"Homepage" = "https://github.com/j-m-l-e-u/aqeea_pkg"

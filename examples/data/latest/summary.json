@@ -1,0 +1,1178 @@
+[
+	{
+		"ct" : "AD",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "BE",
+		"pl" : "CO"
+	},
+	{
+		"ct" : "CY",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "CZ",
+		"pl" : "NO"
+	},
+	{
+		"ct" : "DE",
+		"pl" : "CO"
+	},
+	{
+		"ct" : "DE",
+		"pl" : "NO"
+	},
+	{
+		"ct" : "ES",
+		"pl" : "C6H6"
+	},
+	{
+		"ct" : "ES",
+		"pl" : "NO"
+	},
+	{
+		"ct" : "FR",
+		"pl" : "NOX as NO2"
+	},
+	{
+		"ct" : "GI",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "GR",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "HR",
+		"pl" : "NOX as NO2"
+	},
+	{
+		"ct" : "HU",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "IT",
+		"pl" : "NOX as NO2"
+	},
+	{
+		"ct" : "LT",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "LV",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "MK",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "MK",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "MT",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "MT",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "NO",
+		"pl" : "CO"
+	},
+	{
+		"ct" : "NO",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "NO",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "PL",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "RO",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "SE",
+		"pl" : "NO"
+	},
+	{
+		"ct" : "XK",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "AD",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "BA",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "BE",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "BG",
+		"pl" : "CO"
+	},
+	{
+		"ct" : "BG",
+		"pl" : "m,p-C6H4(CH3)2"
+	},
+	{
+		"ct" : "BG",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "CH",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "CY",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "DE",
+		"pl" : "NOX as NO2"
+	},
+	{
+		"ct" : "DE",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "DK",
+		"pl" : "CO"
+	},
+	{
+		"ct" : "EE",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "FR",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "FR",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "GB",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "GI",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "GR",
+		"pl" : "CO"
+	},
+	{
+		"ct" : "HR",
+		"pl" : "CO"
+	},
+	{
+		"ct" : "HR",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "IT",
+		"pl" : "C6H6"
+	},
+	{
+		"ct" : "IT",
+		"pl" : "H2S"
+	},
+	{
+		"ct" : "LT",
+		"pl" : "CO"
+	},
+	{
+		"ct" : "LT",
+		"pl" : "NOX as NO2"
+	},
+	{
+		"ct" : "LV",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "MK",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "NL",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "PL",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "PT",
+		"pl" : "C6H6"
+	},
+	{
+		"ct" : "PT",
+		"pl" : "CO"
+	},
+	{
+		"ct" : "PT",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "XK",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "AT",
+		"pl" : "CO"
+	},
+	{
+		"ct" : "AT",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "BA",
+		"pl" : "H2S"
+	},
+	{
+		"ct" : "CH",
+		"pl" : "CO"
+	},
+	{
+		"ct" : "CH",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "CH",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "CY",
+		"pl" : "NOX as NO2"
+	},
+	{
+		"ct" : "CZ",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "DE",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "DK",
+		"pl" : "NO"
+	},
+	{
+		"ct" : "DK",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "EE",
+		"pl" : "CO"
+	},
+	{
+		"ct" : "EE",
+		"pl" : "NOX as NO2"
+	},
+	{
+		"ct" : "EE",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "ES",
+		"pl" : "NOX as NO2"
+	},
+	{
+		"ct" : "GB",
+		"pl" : "CO"
+	},
+	{
+		"ct" : "GR",
+		"pl" : "C6H6"
+	},
+	{
+		"ct" : "HU",
+		"pl" : "C6H5-C2H5"
+	},
+	{
+		"ct" : "HU",
+		"pl" : "NOX as NO2"
+	},
+	{
+		"ct" : "IE",
+		"pl" : "C6H6"
+	},
+	{
+		"ct" : "IS",
+		"pl" : "H2S"
+	},
+	{
+		"ct" : "LU",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "LV",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "NO",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "NO",
+		"pl" : "NOX as NO2"
+	},
+	{
+		"ct" : "NO",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "PL",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "RS",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "SK",
+		"pl" : "C6H6"
+	},
+	{
+		"ct" : "SK",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "AD",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "AT",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "BA",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "BG",
+		"pl" : "C6H6"
+	},
+	{
+		"ct" : "BG",
+		"pl" : "NH3"
+	},
+	{
+		"ct" : "BG",
+		"pl" : "NOX as NO2"
+	},
+	{
+		"ct" : "CZ",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "DE",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "DE",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "DK",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "EE",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "GI",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "HR",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "HR",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "IE",
+		"pl" : "NOX as NO2"
+	},
+	{
+		"ct" : "IS",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "LT",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "LT",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "LU",
+		"pl" : "NO"
+	},
+	{
+		"ct" : "LV",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "NL",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "PL",
+		"pl" : "NOX as NO2"
+	},
+	{
+		"ct" : "PT",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "PT",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "RO",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "SE",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "AT",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "BA",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "BA",
+		"pl" : "NOX as NO2"
+	},
+	{
+		"ct" : "BG",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "CZ",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "DE",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "ES",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "FR",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "GB",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "HR",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "IE",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "IE",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "IT",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "LU",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "LU",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "MT",
+		"pl" : "NOX as NO2"
+	},
+	{
+		"ct" : "NL",
+		"pl" : "CO"
+	},
+	{
+		"ct" : "NL",
+		"pl" : "NO"
+	},
+	{
+		"ct" : "NL",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "PT",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "RO",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "RS",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "SI",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "SK",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "AD",
+		"pl" : "NO"
+	},
+	{
+		"ct" : "AT",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "BE",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "BE",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "CY",
+		"pl" : "C6H6"
+	},
+	{
+		"ct" : "CZ",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "ES",
+		"pl" : "CO"
+	},
+	{
+		"ct" : "FI",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "FR",
+		"pl" : "C6H6"
+	},
+	{
+		"ct" : "FR",
+		"pl" : "CO"
+	},
+	{
+		"ct" : "GR",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "HU",
+		"pl" : "m,p-C6H4(CH3)2"
+	},
+	{
+		"ct" : "IE",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "IS",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "IS",
+		"pl" : "NOX as NO2"
+	},
+	{
+		"ct" : "IT",
+		"pl" : "C6H5-CH3"
+	},
+	{
+		"ct" : "LU",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "LV",
+		"pl" : "CO"
+	},
+	{
+		"ct" : "LV",
+		"pl" : "NOX as NO2"
+	},
+	{
+		"ct" : "MT",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "NL",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "NO",
+		"pl" : "NO"
+	},
+	{
+		"ct" : "RS",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "SE",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "SI",
+		"pl" : "NOX as NO2"
+	},
+	{
+		"ct" : "SI",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "XK",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "AT",
+		"pl" : "NO"
+	},
+	{
+		"ct" : "AT",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "BA",
+		"pl" : "CO"
+	},
+	{
+		"ct" : "BA",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "BE",
+		"pl" : "C6H6"
+	},
+	{
+		"ct" : "BE",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "BG",
+		"pl" : "NO"
+	},
+	{
+		"ct" : "BG",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "BG",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "DK",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "FI",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "FR",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "GI",
+		"pl" : "C6H6"
+	},
+	{
+		"ct" : "GR",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "HU",
+		"pl" : "C6H6"
+	},
+	{
+		"ct" : "HU",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "IE",
+		"pl" : "C6H5-CH3"
+	},
+	{
+		"ct" : "IE",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "IS",
+		"pl" : "CO"
+	},
+	{
+		"ct" : "IT",
+		"pl" : "CO"
+	},
+	{
+		"ct" : "IT",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "LT",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "LT",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "LV",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "MK",
+		"pl" : "CO"
+	},
+	{
+		"ct" : "MK",
+		"pl" : "NOX as NO2"
+	},
+	{
+		"ct" : "MK",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "PT",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "RO",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "RO",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "SE",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "SI",
+		"pl" : "CO"
+	},
+	{
+		"ct" : "SI",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "XK",
+		"pl" : "NO"
+	},
+	{
+		"ct" : "XK",
+		"pl" : "NOX as NO2"
+	},
+	{
+		"ct" : "AD",
+		"pl" : "CO"
+	},
+	{
+		"ct" : "AD",
+		"pl" : "NOX as NO2"
+	},
+	{
+		"ct" : "AD",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "BE",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "CH",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "CY",
+		"pl" : "CO"
+	},
+	{
+		"ct" : "DK",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "EE",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "FI",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "GB",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "GR",
+		"pl" : "NO"
+	},
+	{
+		"ct" : "GR",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "GR",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "HR",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "HU",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "HU",
+		"pl" : "o-C6H4-(CH3)2"
+	},
+	{
+		"ct" : "HU",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "IE",
+		"pl" : "CO"
+	},
+	{
+		"ct" : "IS",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "IT",
+		"pl" : "NH3"
+	},
+	{
+		"ct" : "IT",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "IT",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "LT",
+		"pl" : "m,p-C6H4(CH3)2"
+	},
+	{
+		"ct" : "LV",
+		"pl" : "C6H6"
+	},
+	{
+		"ct" : "NL",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "PL",
+		"pl" : "C6H6"
+	},
+	{
+		"ct" : "SE",
+		"pl" : "NOX as NO2"
+	},
+	{
+		"ct" : "SI",
+		"pl" : "C6H6"
+	},
+	{
+		"ct" : "SK",
+		"pl" : "CO"
+	},
+	{
+		"ct" : "SK",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "SK",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "AD",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "BA",
+		"pl" : "NO"
+	},
+	{
+		"ct" : "BG",
+		"pl" : "C6H5-CH3"
+	},
+	{
+		"ct" : "BG",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "CH",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "DK",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "EE",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "ES",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "ES",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "FI",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "FR",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "GB",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "GI",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "HR",
+		"pl" : "C6H6"
+	},
+	{
+		"ct" : "IS",
+		"pl" : "NO"
+	},
+	{
+		"ct" : "IT",
+		"pl" : "NO"
+	},
+	{
+		"ct" : "IT",
+		"pl" : "PM1"
+	},
+	{
+		"ct" : "LT",
+		"pl" : "C6H5-CH3"
+	},
+	{
+		"ct" : "LT",
+		"pl" : "C6H6"
+	},
+	{
+		"ct" : "LU",
+		"pl" : "CO"
+	},
+	{
+		"ct" : "MK",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "MT",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "NO",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "PL",
+		"pl" : "CO"
+	},
+	{
+		"ct" : "PL",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "PL",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "RS",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "SI",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "SK",
+		"pl" : "NOX as NO2"
+	},
+	{
+		"ct" : "BA",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "BG",
+		"pl" : "H2S"
+	},
+	{
+		"ct" : "CY",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "CZ",
+		"pl" : "CO"
+	},
+	{
+		"ct" : "CZ",
+		"pl" : "NOX as NO2"
+	},
+	{
+		"ct" : "CZ",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "DE",
+		"pl" : "C6H6"
+	},
+	{
+		"ct" : "ES",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "ES",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "FI",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "FR",
+		"pl" : "NO"
+	},
+	{
+		"ct" : "GB",
+		"pl" : "NOX as NO2"
+	},
+	{
+		"ct" : "GB",
+		"pl" : "PM10"
+	},
+	{
+		"ct" : "GI",
+		"pl" : "NOX as NO2"
+	},
+	{
+		"ct" : "HU",
+		"pl" : "C6H5-CH3"
+	},
+	{
+		"ct" : "HU",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "IE",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "IS",
+		"pl" : "PM1"
+	},
+	{
+		"ct" : "IS",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "IT",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "LU",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "LU",
+		"pl" : "NOX as NO2"
+	},
+	{
+		"ct" : "MK",
+		"pl" : "NO"
+	},
+	{
+		"ct" : "MT",
+		"pl" : "CO"
+	},
+	{
+		"ct" : "MT",
+		"pl" : "SO2"
+	},
+	{
+		"ct" : "RS",
+		"pl" : "CO"
+	},
+	{
+		"ct" : "RS",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "SE",
+		"pl" : "NO2"
+	},
+	{
+		"ct" : "SE",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "SI",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "SK",
+		"pl" : "O3"
+	},
+	{
+		"ct" : "XK",
+		"pl" : "CO"
+	},
+	{
+		"ct" : "XK",
+		"pl" : "PM2.5"
+	},
+	{
+		"ct" : "XK",
+		"pl" : "SO2"
+	}
+]
