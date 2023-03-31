@@ -1,5 +1,8 @@
 # aqeea
 
+
+[![DOI](https://zenodo.org/badge/621791727.svg)](https://zenodo.org/badge/latestdoi/621791727)
+
 Access to air quality data from the European Environment Agency:
 - Data validated by experts from 2013 up to 2 years before the ongoing year.
 - up-to-date data without any validation.
