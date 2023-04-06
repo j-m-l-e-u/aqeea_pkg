@@ -223,14 +223,14 @@ res = historical(source='uptodate',pollutant='PM10',datetime_from='2023-01-01 00
 ### > Get the last 48h PM10 data in Paris,France
 ```python
 #python
-from aqeea.read import main_read_latest
+from aqeea.read import latest
 res = latest(pollutant='PM10',lat_min=48.8155755, lat_max=48.902156,lon_min=2.224122, lon_max=2.4697602)
 ```
 
 ### > Get the metadata of PM10 concentration in Paris,France
 ```python
 #python
-from aqeea.read import main_read_metadata
+from aqeea.read import metadata
 res = metadata(pollutant='PM10',lat_min=48.8155755, lat_max=48.902156,lon_min=2.224122, lon_max=2.4697602)
 ```
 
