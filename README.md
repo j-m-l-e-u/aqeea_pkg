@@ -74,7 +74,7 @@ You need to download the metadata and the files from the sources of interest bef
 ### > The metadata
 ```bash
 #bash
-python3 aqeea d_metadata -b "/path/to/existing/folder"
+python3 aqeea d_meta -b "/path/to/existing/folder"
 ```
 ```python
 #python
@@ -85,7 +85,7 @@ d_metadata()
 ### > Validated PM10 data for year 2021 in France
 ```bash
 #bash
-python3 aqeea d_historical -s validated -c France -p PM10 -yf 2021 -yt 2021 -b "/path/to/existing/folder"
+python3 aqeea d_hist -s validated -c France -p PM10 -yf 2021 -yt 2021 -b "/path/to/existing/folder"
 ```
 ```python
 #python
@@ -96,7 +96,7 @@ d_historical(source='validated',country='France',pollutant='PM10',year_from=2021
 
 ```bash
 #bash
-python3 aqeea d_historical -s validated -c Albania --pollutants --years -b "/path/to/existing/folder"
+python3 aqeea d_hist -s validated -c Albania --pollutants --years -b "/path/to/existing/folder"
 ```
 ```python
 #python
@@ -107,7 +107,7 @@ d_historical(source='validated',country='Albania',POLLUTANTS=True,YEARS=True)
 ### > Up-to-date PM10 data for year 2023 in Estonia
 ```bash
 #bash
-python3 aqeea d_historical -s uptodate -c Estonia -p PM10 -yf 2023 -yt 2023 -b "/path/to/existing/folder"
+python3 aqeea d_hist -s uptodate -c Estonia -p PM10 -yf 2023 -yt 2023 -b "/path/to/existing/folder"
 ```
 ```python
 #python
@@ -119,7 +119,7 @@ d_historical(source='uptodate',country='Estonia',pollutant='PM10',year_from=2023
 
 ```bash
 #bash
-python3 aqeea d_historical -s uptodate -c Slovenia --pollutants --years -b "/path/to/existing/folder"
+python3 aqeea d_hist -s uptodate -c Slovenia --pollutants --years -b "/path/to/existing/folder"
 ```
 ```python
 #python
@@ -130,7 +130,7 @@ d_historical(source='uptodate',country='Slovenia',POLLUTANTS=True,YEARS=True)
 ### > Latest 48h of PM10 in Serbia
 ```bash
 #bash
-python3 aqeea d_latest -c Serbia -p PM10 -b "/path/to/existing/folder"
+python3 aqeea d_last -c Serbia -p PM10 -b "/path/to/existing/folder"
 ```
 ```python
 #python
@@ -141,7 +141,7 @@ d_latest('Serbia','PM10')
 ### > Latest 48h of PM10 in <i>**all**</i> countries registered at EEA
 ```bash
 #bash
-python3 aqeea d_latest -p PM10 --countries -b "/path/to/existing/folder"
+python3 aqeea d_last -p PM10 --countries -b "/path/to/existing/folder"
 ```
 ```python
 #python
@@ -152,7 +152,7 @@ d_latest('PM10',COUNTRIES=True)
 ### > Latest 48h dataset of <i>**all**</i> the pollutants in Poland
 ```bash
 #bash
-python3 aqeea d_latest -c Poland --pollutants -b "/path/to/existing/folder"
+python3 aqeea d_last -c Poland --pollutants -b "/path/to/existing/folder"
 ```
 ```python
 #python
@@ -163,7 +163,7 @@ d_latest('Poland',POLLUTANTS=True)
 ### > Latest 48h dataset of <i>**all**</i> the pollutants in <i>**all**</i> countries registered at EEA
 ```bash
 #bash
-python3 aqeea d_latest --countries --pollutants -b "/path/to/existing/folder"
+python3 aqeea d_last --countries --pollutants -b "/path/to/existing/folder"
 ```
 ```python
 #python
